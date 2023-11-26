@@ -1,0 +1,29 @@
+
+.show-me-code {
+    display: inline-block;
+    background-color: #4242EA;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 10px;
+ }
+ 
+ li {
+    margin-bottom: 10px;
+ }
+ 
+ ul.libraries li {
+    margin-bottom: 20px;
+ }
+ 
+ 
+ .intro {
+    margin-bottom: 20px;
+ }
+ 
+
+ .hardest-bug {
+    margin-bottom: 30px;
+ }
